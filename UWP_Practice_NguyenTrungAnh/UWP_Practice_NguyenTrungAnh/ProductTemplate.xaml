@@ -34,11 +34,12 @@
             </VisualStateGroup>
         </VisualStateManager.VisualStateGroups>
 
-        <Image Name="ImageProduct" Source="{x:Bind Contact.ImagePath}" Width="260" Height="260"/>
+        <Image Name="ImageProduct" Source="{x:Bind Contact.ImagePath}" Width="360" Height="260" Stretch="UniformToFill" />
         <StackPanel Orientation="Horizontal"
                     Margin="0,10,0,0"
                     HorizontalAlignment="Center">
             <TextBlock Text="{x:Bind Contact.ProductName}"/>
+            <TextBlock Text="{x:Bind Contact.Description}"/>
         </StackPanel>
     </StackPanel>
 </UserControl>

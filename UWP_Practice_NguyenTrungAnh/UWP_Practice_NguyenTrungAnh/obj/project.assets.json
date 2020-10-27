@@ -8157,11 +8157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEM3\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Practice\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh.csproj",
       "projectName": "UWP_Practice_NguyenTrungAnh",
-      "projectPath": "D:\\SEM3\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Practice\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\SEM3\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\UWP_Practice\\UWP_Practice_NguyenTrungAnh\\UWP_Practice_NguyenTrungAnh\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

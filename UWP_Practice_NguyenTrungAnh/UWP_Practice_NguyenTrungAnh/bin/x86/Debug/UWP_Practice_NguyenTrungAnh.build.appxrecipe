@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>30af40d8-d21d-4637-8cff-5dc3fa4d5302</PackageIdentityName>
     <PackageIdentityPublisher>CN=ASUS</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\UWP_Practice_NguyenTrungAnh.exe">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\UWP_Practice_NguyenTrungAnh.exe">
       <PackagePath>entrypoint\UWP_Practice_NguyenTrungAnh.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,73 +34,73 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\aodai1.jpg">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\aodai1.jpg">
       <PackagePath>Assets\aodai1.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\aodai2.jpg">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\aodai2.jpg">
       <PackagePath>Assets\aodai2.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\thethao1.jpg">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\thethao1.jpg">
       <PackagePath>Assets\thethao1.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\thethao2.jpg">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\thethao2.jpg">
       <PackagePath>Assets\thethao2.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\vay1.jpg">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\vay1.jpg">
       <PackagePath>Assets\vay1.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\vay2.jpg">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\vay2.jpg">
       <PackagePath>Assets\vay2.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\UWP_Practice_NguyenTrungAnh.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\UWP_Practice_NguyenTrungAnh.xr.xml">
       <PackagePath>UWP_Practice_NguyenTrungAnh.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\ProductTemplate.xbf">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\ProductTemplate.xbf">
       <PackagePath>ProductTemplate.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\SEM3\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\Core\UWP_Practice_NguyenTrungAnh.exe">
+    <AppxPackagedFile Include="C:\Users\ASUS\Documents\GitHub\UWP_Practice\UWP_Practice_NguyenTrungAnh\UWP_Practice_NguyenTrungAnh\bin\x86\Debug\Core\UWP_Practice_NguyenTrungAnh.exe">
       <PackagePath>UWP_Practice_NguyenTrungAnh.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

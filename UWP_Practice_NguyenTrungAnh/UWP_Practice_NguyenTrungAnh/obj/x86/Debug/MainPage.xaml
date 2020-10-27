@@ -35,7 +35,7 @@
                       Grid.Column="1"                              Margin="10">
             <ComboBox.ItemTemplate>
                 <DataTemplate                       >
-                    <Image x:ConnectionId='10'                            Width="40" Height="40"/>
+                    <Image x:ConnectionId='10'                            Width="100" Height="100"/>
                 </DataTemplate>
             </ComboBox.ItemTemplate>
         </ComboBox>
